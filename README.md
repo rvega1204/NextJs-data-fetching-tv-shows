@@ -25,7 +25,7 @@ Follow these steps to run the project locally:
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/rvega1204/NextJs-data-fetching-tv-shows
     cd data-fetching-tv-shows
     ```
 
@@ -61,6 +61,6 @@ This project uses the [TVMaze API](https://www.tvmaze.com/api) which is a free, 
 
 This project is open source and available under the [MIT License](LICENSE).
 
-##Author
+## Author
 
 - Ricardo Vega
